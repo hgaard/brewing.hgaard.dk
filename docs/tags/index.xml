@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bulimba Brewing Co</title>
+    <link>https://brewing.hgaard.com/tags/</link>
+    <description>Recent content in Tags on Bulimba Brewing Co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://brewing.hgaard.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brewing</title>
+      <link>https://brewing.hgaard.com/tags/brewing/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://brewing.hgaard.com/tags/brewing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IPA</title>
+      <link>https://brewing.hgaard.com/tags/ipa/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://brewing.hgaard.com/tags/ipa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mash</title>
+      <link>https://brewing.hgaard.com/tags/mash/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://brewing.hgaard.com/tags/mash/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

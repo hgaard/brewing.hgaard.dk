@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mash on Bulimba Brewing Co</title>
+    <link>https://brewing.hgaard.com/tags/mash/</link>
+    <description>Recent content in Mash on Bulimba Brewing Co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://brewing.hgaard.com/tags/mash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Just add water</title>
+      <link>https://brewing.hgaard.com/post/just-add-water/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://brewing.hgaard.com/post/just-add-water/</guid>
+      <description>Just add water Yesterday was brew day and only second time I tried out the new setup. Turned out quite well I reckon. But won’t know for sure till 3-4 weeks from now. Pictures follow the process from, mash, sparge, boil, chill and into fermenter.
+#homebrew #craftbrewing #bulimbabrewing #greengarage</description>
+    </item>
+    
+  </channel>
+</rss>
